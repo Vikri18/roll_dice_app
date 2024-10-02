@@ -1,3 +1,3 @@
 # roll_dice_app
 
-A new Flutter project.
+just roll the dice :D
